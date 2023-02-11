@@ -1,0 +1,4 @@
+target/
+.upm/
+replit.nix
+.replit
